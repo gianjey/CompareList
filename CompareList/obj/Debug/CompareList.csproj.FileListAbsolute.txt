@@ -1,0 +1,5 @@
+E:\Progetti\MyProgetti\CompareList\CompareList\bin\Debug\CompareList.exe
+E:\Progetti\MyProgetti\CompareList\CompareList\bin\Debug\CompareList.pdb
+E:\Progetti\MyProgetti\CompareList\CompareList\obj\Debug\CompareList.csprojResolveAssemblyReference.cache
+E:\Progetti\MyProgetti\CompareList\CompareList\obj\Debug\CompareList.exe
+E:\Progetti\MyProgetti\CompareList\CompareList\obj\Debug\CompareList.pdb
